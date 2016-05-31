@@ -1,0 +1,81 @@
+#wrapper {
+    width: 1200px;
+    height: auto;
+    margin: 0 auto 0 auto;
+    background-image: url("sea.jpg");
+    overflow: hidden;
+
+}
+
+
+
+#wrapper #img1 {
+    width: 320px;
+    height: 300px;
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left:20px;
+    box-shadow: 0 0 5px 5px #FFCCCC;
+
+
+
+
+}
+#wrapper #img2 {
+    width: 400px;
+    height: 300px;
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 5px 5px #FFCCCC;
+
+
+
+
+}
+#wrapper #img3 {
+    width: 400px;
+    height: 300px;
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 5px 5px #FFCCCC;
+
+
+
+
+}
+
+#wrapper #h2{
+  text-align: center;
+  color:blue;
+
+}
+
+
+div.content {
+height: 200px;
+width: 200px;
+box-shadow: 0 0 5px 2px #FFCCCC;
+background-color: Lavender;
+float:right;
+text-align: center;
+margin-right: 160px;
+margin-top: 0px;
+margin-bottom: 20px;
+color:#6495ed;
+}
+
+div.new{
+width:1000px;
+height:200px;
+box-shadow: 0 0 5px 2px #FFCCCC;
+
+text-align: center;
+float:right;
+margin-bottom: 20px;
+margin-right: 100px;
+color:black;
+
+}
